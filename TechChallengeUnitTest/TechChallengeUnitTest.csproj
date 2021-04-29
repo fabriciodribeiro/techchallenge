@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TechChallangeClassLibrary\TechChallangeClassLibrary.csproj" />
+    <ProjectReference Include="..\TechChallengeConsole\TechChallengeConsole.csproj" />
   </ItemGroup>
 
 </Project>

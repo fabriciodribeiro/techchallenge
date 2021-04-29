@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Enum
+namespace TechChallangeClassLibrary.Enum
 {
     public enum OutputType
     {
         Local = 1,
-        Remote = 2
+        FileShare = 2,
+        WeTransfer = 3
     }
 }
